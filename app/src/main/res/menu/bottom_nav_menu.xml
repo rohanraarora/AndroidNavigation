@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Movies" android:id="@+id/movies" android:icon="@drawable/ic_chrome_reader_mode_grey_500_24dp"/>
+
+    <item android:title="TV shows" android:id="@+id/tv" android:icon="@drawable/ic_replay_grey_500_24dp"/>
+
+    <item android:title="Fav" android:id="@+id/fav" android:icon="@drawable/ic_skip_next_grey_500_24dp"/>
+
+</menu>
